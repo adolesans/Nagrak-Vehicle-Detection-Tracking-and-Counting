@@ -23,7 +23,7 @@ The logic is straightforward:
 
 1.  **Clone this repo:**
     ```bash
-    git clone [https://github.com/vehicle-counter.git](https://github.comagrak-vehicle-counter.git)
+    git clone https://github.com/adolesans/Nagrak-Vehicle-Detection-Tracking-and-Counting.git
     cd nagrak-vehicle-counter
     ```
 
