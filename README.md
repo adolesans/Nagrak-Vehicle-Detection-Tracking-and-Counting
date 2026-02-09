@@ -23,8 +23,8 @@ The logic is straightforward:
 
 1.  **Clone this repo:**
     ```bash
-    git clone https://github.com/adolesans/Nagrak-Vehicle-Detection-Tracking-and-Counting.git
-    cd nagrak-vehicle-counter
+    git clone [https://github.com/adolesans/Nagrak-Vehicle-Detection-Tracking-and-Counting.git](https://github.com/adolesans/Nagrak-Vehicle-Detection-Tracking-and-Counting.git)
+    cd Nagrak-Vehicle-Detection-Tracking-and-Counting
     ```
 
 2.  **Install libraries:**
